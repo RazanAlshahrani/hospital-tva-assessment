@@ -31,4 +31,4 @@ Examples include firewalls, intrusion detection and prevention, multi-factor aut
 This report was completed as university group coursework. Its ratings and assumptions belong to the academic scenario and do not represent a verified assessment of the hospital's actual security posture.
 
 ## Assessment Report
-[View the assessment report](REPORT_LINK)
+[View the assessment report](https://github.com/RazanAlshahrani/hospital-tva-assessment/blob/main/TVA%20matrix%20SMC%20hospitals%20.pdf)
